@@ -47,4 +47,9 @@ Here is the link to direct download Redis on Windows system.
 
 Direct Link = https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi
 
-[COMPLETE INSTALLATION PROCESS](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/REDIS%20INSTALLATION%20ON%20WINDOWS.docx) = Here you can able to find the step by step installation and verfication of REDIS.
+[COMPLETE INSTALLATION PROCESS](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/REDIS%20INSTALLATION%20ON%20WINDOWS.pdf) = Here you can able to find the step by step installation and verfication of REDIS.
+
+## NOTE:
+
+  Since REDIS is command line based I have uploaded defination, syntax and sample output in the form of "PDF" file. So use this README.md file for making proper use of this REDIS hands on.
+  
