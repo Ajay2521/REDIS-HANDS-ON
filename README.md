@@ -12,6 +12,16 @@
 
   Redis is an open source program which is used to store the data models in the format of key-value.
 
+### Data-types used in REDIS:
+
+- STRINGS
+- HASHES
+- LISTS
+- SETS
+- SORTED SETS
+- BITMAPS
+- HYPERLOGLOGS
+
 ### The 3 main unique feature of Redis is:
 
   1)	It holds the database in the memory by using the disk only for persistence.
@@ -37,4 +47,4 @@ Here is the link to direct download Redis on Windows system.
 
 Direct Link = https://github.com/microsoftarchive/redis/releases/download/win-3.0.504/Redis-x64-3.0.504.msi
 
-[COMPLETE INSTALLATION PROCESS]() = Here you can able to find the step by step installation and verfication of REDIS.
+[COMPLETE INSTALLATION PROCESS](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/REDIS%20INSTALLATION%20ON%20WINDOWS.docx) = Here you can able to find the step by step installation and verfication of REDIS.
