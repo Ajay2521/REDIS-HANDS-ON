@@ -109,8 +109,8 @@ Direct Link = https://github.com/microsoftarchive/redis/releases/download/win-3.
 
 7) [HLEN](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HLEN.pdf) = In this HLEN command which is used to do hash operation has been explained.
 
-8) [HSETNX](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HSETNX.pdf) = In this HMSET & HGETALL command which is used to do hash operation has been explained.
+8) [HSETNX](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HSETNX.pdf) = In this HSETNX command which is used to do hash operation has been explained.
 
-9) [HINCRBY](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HINCRBY.pdf) = In this HMSET & HGETALL command which is used to do hash operation has been explained.
+9) [HINCRBY](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HINCRBY.pdf) = In this HINCRBY command which is used to do hash operation has been explained.
 
-10) [HINCRBYFLOAT](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HINCRBYFLOAT.pdf) = In this HMSET & HGETALL command which is used to do hash operation has been explained.
+10) [HINCRBYFLOAT](https://github.com/maayon2521/REDIS-HANDS-ON/blob/main/HASHES/HINCRBYFLOAT.pdf) = In this HINCRBYFLOAT command which is used to do hash operation has been explained.
